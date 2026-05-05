@@ -18,7 +18,7 @@ const projects = [
     type: 'E-Commerce Platform',
     description: 'A fast, modern e-commerce application utilizing Firebase for serverless backend operations and seamless user experience.',
     tech: ['React', 'Vite', 'Firebase', 'Cloud Functions'],
-    live: 'https://mhmcollection.org',
+    live: 'https://mhmcollection.com',
     github: 'https://github.com/Bedirhan3428/mhmcollection',
     icon: <ShoppingCart className="w-6 h-6 text-soft-green" />
   },
