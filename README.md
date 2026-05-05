@@ -30,8 +30,8 @@ To run this project locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Bedirhan3428/portfolio.git
-cd portfolio
+git clone https://github.com/Bedirhan3428/bedirhanimer.git
+cd bedirhanimer
 ```
 
 ### 2. Install Dependencies
