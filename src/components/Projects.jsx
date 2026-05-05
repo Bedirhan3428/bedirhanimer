@@ -1,5 +1,5 @@
 import React from 'react';
-import { ExternalLink, Github, Database, Layout, Server, Lock } from 'lucide-react';
+import { ExternalLink, Github, Database, Layout, Server, Lock, ShoppingCart } from 'lucide-react';
 
 const projects = [
   {
@@ -11,6 +11,16 @@ const projects = [
     live: 'https://www.stokpro.shop/',
     github: 'https://github.com/Bedirhan3428/stokpro',
     icon: <Layout className="w-6 h-6 text-soft-green" />
+  },
+  {
+    id: 'mhmcollection',
+    title: 'MHM Collection',
+    type: 'E-Commerce Platform',
+    description: 'A fast, modern e-commerce application utilizing Firebase for serverless backend operations and seamless user experience.',
+    tech: ['React', 'Vite', 'Firebase', 'Cloud Functions'],
+    live: 'https://mhmcollection.org',
+    github: 'https://github.com/Bedirhan3428/mhmcollection',
+    icon: <ShoppingCart className="w-6 h-6 text-soft-green" />
   },
   {
     id: 'sigalmedia',
