@@ -8,7 +8,7 @@ const Footer = () => {
           &copy; {new Date().getFullYear()} BEDIRHAN İMER. ALL SYSTEMS ONLINE.
         </div>
         <div className="flex gap-6 text-sm font-medium">
-          <a href="https://github.com/Bedirhan3428" target="_blank" rel="noreferrer" className="text-pure-white hover:text-soft-green transition-colors">GitHub</a>
+          <a href="https://github.com/Bedirhan3428" target="_blank" rel="noreferrer" className="text-pure-white hover:text-amber-orange transition-colors">GitHub</a>
         </div>
       </div>
     </footer>

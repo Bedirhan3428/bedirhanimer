@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        'soft-green': '#4ADE80',
+        'amber-orange': '#F59E0B',
         'deep-black': '#09090B',
         'card-bg': '#18181B',
         'border-color': '#27272A',

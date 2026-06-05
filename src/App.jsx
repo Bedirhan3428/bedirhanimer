@@ -1,6 +1,8 @@
 import React from 'react';
 import Hero from './components/Hero';
 import Philosophy from './components/Philosophy';
+import Evolution from './components/Evolution';
+import Cyberdeck from './components/Cyberdeck';
 import Projects from './components/Projects';
 import Footer from './components/Footer';
 
@@ -10,6 +12,8 @@ function App() {
       <div className="max-w-6xl mx-auto px-6 py-12 md:py-20 flex flex-col gap-32">
         <Hero />
         <Philosophy />
+        <Evolution />
+        <Cyberdeck />
         <Projects />
       </div>
       <Footer />
